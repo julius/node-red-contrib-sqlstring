@@ -1,6 +1,6 @@
 # node-red-contrib-sqlstring
 
-A [Node-RED](http://nodered.org) node formating SQL-Queries to avoid SQL-Injections.
+A [Node-RED](http://nodered.org) node for formatting SQL-Queries to avoid SQL-Injections.
 
 ![screenshot](images/screenshot.png)
 
